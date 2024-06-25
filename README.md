@@ -1,6 +1,6 @@
 # HLTexam
 Hello Professor Strapparava, these are my codes for linguistics analysis and Models training.
-The main codes are SpeechDiarization.py and NLPanalysisAndRandomForest.
+The main codes are SpeechDiarization.py and NLPanalysisAndRandomForest.py.
 
 The codes with Bert in the name are my trial to process the data with different Bert models.
 MainTopics.py shows the topics of each subset ("Antisocial" and "Normotype").
