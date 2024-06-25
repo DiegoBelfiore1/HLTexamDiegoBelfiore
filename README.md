@@ -8,7 +8,7 @@ SingleClassesNLP.py gathers linguistics information about each subset.
 
 POSrandomforest.py contains the model training including POS analysis.
 
-I attach the final dataset and the material I obtained by Speech Diarization.
+I attach the final dataset and the material I obtained from Speech Diarization.
 
 The raw audio files are available at: https://we.tl/t-tK2yH9YAK6, don't hesitate to ask me to upload them again if they expire.
 
