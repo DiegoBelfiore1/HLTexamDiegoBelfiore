@@ -1,5 +1,5 @@
 # HLTexam
-Hello Professor Strapparava, this is my code for linguistics analysis and Models training.
+Hello Professor Strapparava, these are my codes for linguistics analysis and Models training.
 The main codes are SpeechDiarization.py and NLPanalysisAndRandomForest.
 
 The codes with Bert in the name are my trial to process the data with different Bert models.
