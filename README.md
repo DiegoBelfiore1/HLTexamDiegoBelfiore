@@ -8,5 +8,9 @@ SingleClassesNLP.py gathers NLP information about each subset.
 
 I attach the final dataset and the material I obtained by Speech Diarization.
 
-Thank you
+The raw audio files are available at: https://we.tl/t-tK2yH9YAK6, don't hesitate to ask me to upload them again if they expire.
+
+Thank you for everything,
+
 Diego
+
