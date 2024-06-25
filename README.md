@@ -2,7 +2,7 @@
 Hello Professor Strapparava, this is my code for linguistics analysis and Models training.
 The main codes are SpeechDiarization.py and NLPanalysisAndRandomForest.
 
-The codes wirh Bert in the name are my trial to process the data with different Bert models.
+The codes with Bert in the name are my trial to process the data with different Bert models.
 MainTopics.py shows the topics of each subset ("Antisocial" and "Normotype").
 SingleClassesNLP.py gathers linguistics information about each subset.
 
