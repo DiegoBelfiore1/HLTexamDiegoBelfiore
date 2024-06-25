@@ -1,4 +1,4 @@
-# NLPexam
+# HLTexam
 Hello Professor Strapparava, this is my code for linguistics analysis and Models training.
 The main codes are SpeechDiarization.py and NLPanalysisAndRandomForest.
 
